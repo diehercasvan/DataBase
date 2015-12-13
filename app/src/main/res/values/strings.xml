@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">DataBase</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="name">Name:</string>
+    <string name="surname">Surname:</string>
+    <string name="document">Documetn:</string>
+    <string name="btnInsert">Insert</string>
+    <string name="phone">Phone</string>
+    <string-array name="city">
+        <item>	Amazonas	</item>
+        <item>	Antioquia	</item>
+        <item>	Arauca	</item>
+        <item>	Archipiélago de San Andrés	</item>
+        <item>	Atlántico	</item>
+        <item>	Bogotá D.C.	</item>
+        <item>	Bolívar	</item>
+        <item>	Boyacá	</item>
+        <item>	Caldas	</item>
+        <item>	Caquetá	</item>
+        <item>	Casanare	</item>
+        <item>	Cauca	</item>
+        <item>	Cesar	</item>
+        <item>	Chocó	</item>
+        <item>	Córdoba	</item>
+        <item>	Cundinamarca	</item>
+        <item>	Guainía	</item>
+        <item>	Guaviare	</item>
+        <item>	Huila	</item>
+        <item>	La Guajira	</item>
+        <item>	Magdalena	</item>
+        <item>	Meta	</item>
+        <item>	Nariño	</item>
+        <item>	Norte de Santander	</item>
+        <item>	Putumayo	</item>
+        <item>	Quindío	</item>
+        <item>	Risaralda	</item>
+        <item>	Santander	</item>
+        <item>	Sucre	</item>
+        <item>	Tolima	</item>
+        <item>	Valle del Cauca	</item>
+        <item>	Vaupés	</item>
+        <item>	Vichada	</item>
+    </string-array>
+    <string name="men1">Please check the data entered</string>
+    <string name="men2">Insertion was successful</string>
+    <string name="men3">An error has occurred</string>
+    <string name="men4">Disposal succeeded</string>
+    <string name="men5">Elimination was mistake</string>
+    <string name="item1">Insert person</string>
+    <string name="item2">Search person</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+
+</resources>
